@@ -1,0 +1,9 @@
+{
+    "full_name": "Advanced Python Development reader",
+    "email": "example@advancedpython.dev",
+    "project_name": "Example project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_short_description": "An example project.",
+    "version": "1.0.0",
+    "license": ["BSD", "MIT", "Not open source"]
+}
